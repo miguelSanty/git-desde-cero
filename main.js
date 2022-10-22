@@ -1,1 +1,3 @@
-console.info("Hola mundo desde git en js😎");
+const hola = true;
+
+hola === true ? console.log("Hi") : console.error("Hay un error");
